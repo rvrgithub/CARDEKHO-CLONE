@@ -2,26 +2,20 @@ import React from "react";
 import "./Header.css";
 import { Typography } from "@material-ui/core";
 import { Link } from "react-router-dom";
-import { display } from "@mui/system";
 import ArrowDropDownIcon from "@mui/icons-material/ArrowDropDown";
-export const NewsReviews = () => {
+export const More = () => {
   const CarNews = [
-    { to: "#", title: "Car News" },
-    { to: "#", title: "Feature Stories" },
-    { to: "#", title: "Car Collectios" },
-    { to: "#", title: "Car Selling Tips" },
-    { to: "#", title: "User Reviews" },
-    { to: "#", title: "Road Test" },
-    { to: "#", title: "Video Reviews" },
-    { to: "#", title: "Write a Reivews" },
-    { to: "#", title: "car Visual Stories" },
+    { to: "#", title: "Car Loan" },
+    { to: "#", title: "EMI Calculator" },
+    { to: "#", title: "Ask A Questio" },
+    { to: "#", title: "Careers with us" },
   ];
   return (
     <ul className="menu">
       <li>
         <div className="flex">
           <Link to="#" className="link">
-            <p className="text">NEWS & REVIEWS</p>
+            <p className="text">MORE</p>
             <ArrowDropDownIcon className="text" />
           </Link>
         </div>

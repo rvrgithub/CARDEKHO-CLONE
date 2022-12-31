@@ -5,74 +5,29 @@ import { NewCar } from "./NewCar";
 import { UsedCar } from "./UsedCar";
 import { SellCar } from "./SellCar";
 import { NewsReviews } from "./NewsReviews";
-export const Header = () => {  
+import { Cardekho } from "./Cardekho";
+import { More } from "./More";
+import LocationOnIcon from '@mui/icons-material/LocationOn';
+import ArrowDropDownIcon from "@mui/icons-material/ArrowDropDown";
+export const Header = () => {
   return (
-    <div className="header">     
-      <NewCar/>
-      <UsedCar/>
-      <SellCar/>
-      <NewsReviews/>
-      <Link to="#"> COMPARE CARS</Link>
-       {/* <ul className="menu">
-        <li>
-          <Link to="#" className="link">
-            <Typography className="text">COMPARE CARS</Typography>
-            <ArrowDropDownIcon className="text"/>
-          </Link>
-        </li>
-        <li>
-          <Link to="#" className="link">
-            <Typography className="text">NEWS & REVIEWS</Typography>
-            <ArrowDropDownIcon className="text"/>
-          </Link>
-        </li>
-        <li>
-          <Link to="#" className="link">
-            <Typography className="text">CARDEKHO VENTURES</Typography>
-            <ArrowDropDownIcon  className="text"/>
-          </Link>
-        </li>
-        <li>
-          <Link to="#" className="link">
-            <Typography className="text">MORE</Typography>
-            <ArrowDropDownIcon className="text"/>
-          </Link>
-        </li>
-      </ul> */}
-      {/* </div> */}
-
-      {/* 2nd div........... */}
-      <div className="rightDiv">
-        <p> Select City </p>
+    <div className="header">
+      <div className="leftDiv">
+        <NewCar />
+        <UsedCar />
+        <SellCar />
+        <Link to="#" className="link compare">
+          <p>COMPARE CARS</p>
+        </Link>
+        <NewsReviews />
+        <Cardekho />
+        <More />
       </div>
-
-      {/*<div className="">
-      <div>
-            <Typography>NEW CAR</Typography>
-            <ArrowDropDownIcon />
-            </div>
-            </div> */}
-      {/*<div>
-         <div className="flex">
-            <Typography>USED CAR</Typography>
-            <ArrowDropDownIcon />
-          </div>
-        </div>
-        <div>
-          <Typography>SELL CAR</Typography>
-        </div>
-        <div>
-          <Typography>COMPARE CARS</Typography>
-        </div>
-        <div>
-          <Typography>NEWS & REVIEWS</Typography>
-        </div>
-        <div>
-          <Typography>CARDEKHO VENTURES</Typography>
-        </div>
-        <div>
-          <Typography>MORE</Typography>
-        </div> */}
+      <div className="rightDiv">
+      <LocationOnIcon className="text"/>
+        <p className="select">Select City </p>
+        <ArrowDropDownIcon className="text" />
+      </div>
     </div>
   );
 };

@@ -1,124 +1,124 @@
-import React from 'react'
+import React from "react";
 import "./Header.css";
-import {
-    Typography,
-  } from "@material-ui/core";
-  import { Link } from "react-router-dom";
-  import { display } from "@mui/system";
-  import ArrowDropDownIcon from "@mui/icons-material/ArrowDropDown";
+import { p } from "@material-ui/core";
+import { Link } from "react-router-dom";
+import { display } from "@mui/system";
+import ArrowDropDownIcon from "@mui/icons-material/ArrowDropDown";
+import ArrowRightIcon from "@mui/icons-material/ArrowRight";
 export const NewCar = () => {
-    const populerBrand=[
-        {to:"#",title:"Maruti Suzuki Cars"},
-        {to:"#",title:"Citroen Cars"},
-        {to:"#",title:"Hyundai Cars"},
-        {to:"#",title:"Tata Cars"},
-        {to:"#",title:"Mahindra Cars"},
-        {to:"#",title:"Kia Cars"}
-       ] ;
-       const populerCars=[
-        {to:"#",title:"Mahindra Scorpio-N"},
-        {to:"#",title:"Maruti Swift"},
-        {to:"#",title:"Citroen C3"},
-        {to:"#",title:"Renault Kiger"},
-        {to:"#",title:"Kia Seltos"},
-        {to:"#",title:"Renault Triber"},
-        {to:"#", title:"Skoda Octavia"}
-       ] 
+  const populerBrand = [
+    { to: "#", title: "Maruti Suzuki Cars" },
+    { to: "#", title: "Citroen Cars" },
+    { to: "#", title: "Hyundai Cars" },
+    { to: "#", title: "Tata Cars" },
+    { to: "#", title: "Mahindra Cars" },
+    { to: "#", title: "Kia Cars" },
+  ];
+  const populerCars = [
+    { to: "#", title: "Mahindra Scorpio-N" },
+    { to: "#", title: "Maruti Swift" },
+    { to: "#", title: "Citroen C3" },
+    { to: "#", title: "Renault Kiger" },
+    { to: "#", title: "Kia Seltos" },
+    { to: "#", title: "Renault Triber" },
+    { to: "#", title: "Skoda Octavia" },
+  ];
   return (
     <ul className="menu">
-        <li>
+      <li>
+        <div className="flex">
           <Link to="#" className="link">
-            <Typography className="text">NEW CAR</Typography>
-            <ArrowDropDownIcon />
+            <p className="text">NEW CAR</p>
+            <ArrowDropDownIcon className="text" />
           </Link>
-          <ul className="submenu">
-            <li>
-              {" "}
-              <Link to="#" className="link">
-                <Typography>Search New Cars</Typography>
-              </Link>
-              
-            </li>
-            <li>
-              {" "}
-              <Link to="#" className="link">
-                <Typography>Popular Brand</Typography>
-              </Link>
-              <ul className="submenu2">
+        </div>
+        <ul className="submenu">
+          <li>
+            {" "}
+            <Link to="#" className="link">
+              <p>Search New Cars</p>
+            </Link>
+          </li>
+          <li>
+            {" "}
+            <Link to="#" className="link">
+              <p>Popular Brand</p>
+              <ArrowRightIcon className="rightArrow" />
+            </Link>
+            <ul className="submenu2">
+              {populerBrand.map((e) => (
                 <li>
-                  {populerBrand.map((e)=>(
-                    <Link to={e.to} className="link">
-                    <Typography>{e.title}</Typography>
+                  <Link to={e.to} className="link">
+                    <p>{e.title}</p>
                   </Link>
-                  ))}
                 </li>
-              </ul>
-            </li>{" "}
-            <li>
-              {" "}
-              <Link to="#" className="link">
-                <Typography>Upcomming Cars</Typography>
-              </Link>
-              
-            </li>
-            <li>
-              {" "}
-              <Link to="#" className="link">
-                <Typography>Popular Cars</Typography>
-              </Link>
-              <ul className="submenu2">
+              ))}
+            </ul>
+          </li>{" "}
+          <li>
+            {" "}
+            <Link to="#" className="link">
+              <p>Upcomming Cars</p>
+            </Link>
+          </li>
+          <li>
+            {" "}
+            <Link to="#" className="link">
+              <p>Popular Cars</p>
+              <ArrowRightIcon className="rightArrow" />
+            </Link>
+            <ul className="submenu2">
+              {populerCars.map((e) => (
                 <li>
-                  {populerCars.map((e)=>(
-                    <Link to={e.to} className="link">
-                    <Typography>{e.title}</Typography>
+                  <Link to={e.to} className="link">
+                    <p>{e.title}</p>
                   </Link>
-                  ))}
                 </li>
-              </ul>
-            </li>{" "}
-            <li>
+              ))}
+            </ul>
+          </li>{" "}
+          <li>
             <Link to="#" className="link">
-                    <Typography>Electric Cars</Typography>
-                  </Link>
-            </li>
-            <li>
+              <p>Electric Cars</p>
+            </Link>
+          </li>
+          <li>
             <Link to="#" className="link">
-                    <Typography>Electric Charging STation</Typography>
-                  </Link>
-            </li>
-            <li>
+              <p>Electric Charging STation</p>
+            </Link>
+          </li>
+          <li>
             <Link to="#" className="link">
-                    <Typography>Suggest Me a Car</Typography>
-                  </Link>
-            </li>
-            <li>
+              <p>Suggest Me a Car</p>
+            </Link>
+          </li>
+          <li>
             <Link to="#" className="link">
-                    <Typography>BS6 Cars</Typography>
-                  </Link>
-            </li>
-            <li>
+              <p>BS6 Cars</p>
+            </Link>
+          </li>
+          <li>
             <Link to="#" className="link">
-                    <Typography>Offers and Dicsount</Typography>
-                  </Link>
-            </li>
-
-            <li>
+              <p>Offers and Dicsount</p>
+            </Link>
+          </li>
+          <li>
             <Link to="#" className="link">
-                    <Typography>Serviec Centers</Typography>
-                  </Link>
-            </li>
-            <li>
+              <p>Serviec Centers</p>
+            </Link>
+          </li>
+          <li>
             <Link to="#" className="link">
-                    <Typography>Dealers</Typography>
-                  </Link>
-            </li>
-            <li>
+              <p>Dealers</p>
+            </Link>
+          </li>
+          <li>
             <Link to="#" className="link">
-                    <Typography>Win iphone</Typography>
-                  </Link>
-            </li>
-          </ul>
-        </li>
+              <p>Win iphone</p>
+            </Link>
+          </li>
         </ul>
-  )
-}
+      </li>
+    </ul>
+  );
+};

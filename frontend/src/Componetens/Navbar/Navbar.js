@@ -10,7 +10,7 @@ const useStyles = makeStyles((theme) => ({
     flexDirection: "row",
     justifyContent: "space-around",
     width: "100%",
-    height: "80px",
+    height: "75px",
     // border: "1px solid red",
     backgroundColor: "white",
     marginLeft: theme.spacing(10),
