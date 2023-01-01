@@ -4,7 +4,11 @@
  - react app 
  - Metrial UI
  - react-router-dom
- -
+ - swiper
+ - axios
+ - react-redux
+ - redux-thunk
+ - redux  
 
 
  ## Pages
@@ -13,4 +17,14 @@
 
 ## Components
  - Navbar
+ - Header
+ - Cards
+ - swiper/ Slider
 
+
+ ## Redux
+  - AppReducer
+   - Action
+   - Action.type
+   - Reducer
+  - Store 

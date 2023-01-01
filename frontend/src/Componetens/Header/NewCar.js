@@ -46,8 +46,8 @@ export const NewCar = () => {
               <ArrowRightIcon className="rightArrow" />
             </Link>
             <ul className="submenu2">
-              {populerBrand.map((e) => (
-                <li>
+              {populerBrand.map((e,i) => (
+                <li key={i}>
                   <Link to={e.to} className="link">
                     <p>{e.title}</p>
                   </Link>
@@ -68,8 +68,8 @@ export const NewCar = () => {
               <ArrowRightIcon className="rightArrow" />
             </Link>
             <ul className="submenu2">
-              {populerCars.map((e) => (
-                <li>
+              {populerCars.map((e,i) => (
+                <li key={i}>
                   <Link to={e.to} className="link">
                     <p>{e.title}</p>
                   </Link>

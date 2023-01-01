@@ -2,10 +2,11 @@
   position: fixed;
   display: flex;
   flex-direction: row;
-  margin-top: 76px;
+  margin-top: 75px;
   padding: 0;
   height: 50px;
   width: 100%;
+  z-index: 1;
   font-family: roboto sans-serif Arial;
   background-color: white;
   justify-content: space-around;
@@ -52,7 +53,7 @@ margin-top: 15px;
   height: 95%;
 }
 .flex:hover {
-  border-top: 3px solid orange;
+  border-top: 3px solid #f75d34;
 }
 .menu li {
   position: relative;

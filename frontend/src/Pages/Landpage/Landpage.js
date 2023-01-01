@@ -1,9 +1,23 @@
-import React from 'react'
-
+import React from "react";
+import CssBaseline from "@mui/material/CssBaseline";
+import Box from "@mui/material/Box";
+import "./Landpage.css";
+import {Slider} from "../../Componetens/Slider/Slider";
+import { SearchingCars } from "../SearchingCars/SearchingCars";
 export const Landpage = () => {
   return (
-    <div>
-      <img src="https://stimg.cardekho.com/images/carexteriorimages/630x420/Tata/Nexon/7384/1614326304397/front-left-side-47.jpg?tr=w-300" alt="image_error" />
-    </div>
-  )
-}
+    // <div>
+      <div className="container">
+        <Box className="centerImageBox" sx={{height: "85vh", width:"100%"}}>
+          {" "}
+          <img
+            src="https:/stimg.cardekho.com/images/uploadimages/1672227099400/CD-MasterHead-Desktop-Under10lac-Web.jpg"
+            alt="image_error"
+          />
+        </Box>
+        <SearchingCars/>
+       
+      </div>
+    // </div>
+  );
+};

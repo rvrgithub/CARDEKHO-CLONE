@@ -6,14 +6,17 @@ import { Link } from "react-router-dom";
 import FavoriteBorderOutlinedIcon from "@mui/icons-material/FavoriteBorderOutlined";
 const useStyles = makeStyles((theme) => ({
   nav: {
+    position:"fixed",
     display: "flex",
     flexDirection: "row",
     justifyContent: "space-around",
     width: "100%",
     height: "75px",
+    padding:0,
+    zIndex:1000,
     // border: "1px solid red",
     backgroundColor: "white",
-    marginLeft: theme.spacing(10),
+    boxShadow:"rgba(60, 64, 67, 0.3) 0px 1px 2px 0px,rgba(60, 64, 67, 0.15) 0px 2px 6px 2px",
   },
   link: {
     textDecoration: "none",
@@ -89,7 +92,7 @@ const useStyles = makeStyles((theme) => ({
 export const Navbar = () => {
   const classes = useStyles();
   return (
-    <AppBar className={classes.nav} position="fixed">
+    <div className={classes.nav} position="fixed">
       <div className={classes.logo}>
         <Link to="/">
           {" "}
@@ -118,6 +121,6 @@ export const Navbar = () => {
           <p className={classes.p}>Login/Register</p>
         </Link>
       </div>
-    </AppBar>
+    </div>
   );
 };

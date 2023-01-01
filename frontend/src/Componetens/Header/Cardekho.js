@@ -39,8 +39,8 @@ export const Cardekho = () => {
           </Link>
         </div>
         <ul className="submenu">
-          {CarNews.map((e) => (
-            <li>
+          {CarNews.map((e,i) => (
+            <li key={i}>
               <Link to={e.to} className="link">
                 <div className="cardekho">
                   <img src={e.logo} alt="logo_error" />

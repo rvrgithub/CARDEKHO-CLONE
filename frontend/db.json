@@ -1,0 +1,137 @@
+{
+  "searched": {
+    "options": ["Hatchback", "Sedan", "SUV", "MUV", "Luxury"],
+    "data": {
+      "hatchback": [
+        {
+          "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Swift/8378/Maruti-Swift-VXI/1670933646275/front-left-side-47.jpg?tr=w-456",
+          "name": "Maruti Swift",
+          "price": "5.92 - 8.85"
+        },
+        {
+          "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Tata/Tiago/7338/Tata-Tiago-XE/1660901953609/front-left-side-47.jpg?tr=w-456",
+          "name": "Tata Tiago",
+          "price": "5.45 - 7.90"
+        },
+        {
+          "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Swift/8378/Maruti-Swift-VXI/1670933646275/front-left-side-47.jpg?tr=w-456",
+          "name": "Maruti Baleno",
+          "price": "6.49 - 9.71"
+        },
+        {
+          "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Baleno/8674/1645684614616/front-left-side-47.jpg?tr=w-456",
+          "name": "Maruti Alto 800",
+          "price": "3.39 - 5.03"
+        },
+        {
+          "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Alto-800/7072/1650542631570/front-left-side-47.jpg?tr=w-456",
+          "name": "Maruti Swift",
+          "price": "Rs5.92 - 8.85 Lakh"
+        },
+        {
+          "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Swift/8378/Maruti-Swift-VXI/1670933646275/front-left-side-47.jpg?tr=w-456",
+          "name": "Maruti Swift",
+          "price": "Rs5.92 - 8.85 Lakh"
+        },
+        {
+          "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Swift/8378/Maruti-Swift-VXI/1670933646275/front-left-side-47.jpg?tr=w-456",
+          "name": "Maruti Swift",
+          "price": "Rs5.92 - 8.85 Lakh"
+        },
+        {
+          "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Swift/8378/Maruti-Swift-VXI/1670933646275/front-left-side-47.jpg?tr=w-456",
+          "name": "Maruti Swift",
+          "price": "Rs5.92 - 8.85 Lakh"
+        }
+      ],
+      "sedan": [
+        {
+          "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Swift/8378/Maruti-Swift-VXI/1670933646275/front-left-side-47.jpg?tr=w-456",
+          "name": "Maruti Swift",
+          "price": "5.92 - 8.85"
+        },
+        {
+          "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Tata/Tiago/7338/Tata-Tiago-XE/1660901953609/front-left-side-47.jpg?tr=w-456",
+          "name": "Tata Tiago",
+          "price": "5.45 - 7.90"
+        },
+        {
+          "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Swift/8378/Maruti-Swift-VXI/1670933646275/front-left-side-47.jpg?tr=w-456",
+          "name": "Maruti Baleno",
+          "price": "6.49 - 9.71"
+        },
+        {
+          "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Baleno/8674/1645684614616/front-left-side-47.jpg?tr=w-456",
+          "name": "Maruti Alto 800",
+          "price": "3.39 - 5.03"
+        }
+      ],
+      "suv": [
+        {
+          "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Swift/8378/Maruti-Swift-VXI/1670933646275/front-left-side-47.jpg?tr=w-456",
+          "name": "Maruti Swift",
+          "price": "5.92 - 8.85"
+        },
+        {
+          "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Tata/Tiago/7338/Tata-Tiago-XE/1660901953609/front-left-side-47.jpg?tr=w-456",
+          "name": "Tata Tiago",
+          "price": "5.45 - 7.90"
+        },
+        {
+          "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Swift/8378/Maruti-Swift-VXI/1670933646275/front-left-side-47.jpg?tr=w-456",
+          "name": "Maruti Baleno",
+          "price": "6.49 - 9.71"
+        },
+        {
+          "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Baleno/8674/1645684614616/front-left-side-47.jpg?tr=w-456",
+          "name": "Maruti Alto 800",
+          "price": "3.39 - 5.03"
+        }
+      ],
+      "mvu": [
+        {
+          "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Swift/8378/Maruti-Swift-VXI/1670933646275/front-left-side-47.jpg?tr=w-456",
+          "name": "Maruti Swift",
+          "price": "5.92 - 8.85"
+        },
+        {
+          "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Tata/Tiago/7338/Tata-Tiago-XE/1660901953609/front-left-side-47.jpg?tr=w-456",
+          "name": "Tata Tiago",
+          "price": "5.45 - 7.90"
+        },
+        {
+          "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Swift/8378/Maruti-Swift-VXI/1670933646275/front-left-side-47.jpg?tr=w-456",
+          "name": "Maruti Baleno",
+          "price": "6.49 - 9.71"
+        },
+        {
+          "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Baleno/8674/1645684614616/front-left-side-47.jpg?tr=w-456",
+          "name": "Maruti Alto 800",
+          "price": "3.39 - 5.03"
+        }
+      ],
+      "luxury": [
+        {
+          "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Swift/8378/Maruti-Swift-VXI/1670933646275/front-left-side-47.jpg?tr=w-456",
+          "name": "Maruti Swift",
+          "price": "5.92 - 8.85"
+        },
+        {
+          "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Tata/Tiago/7338/Tata-Tiago-XE/1660901953609/front-left-side-47.jpg?tr=w-456",
+          "name": "Tata Tiago",
+          "price": "5.45 - 7.90"
+        },
+        {
+          "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Swift/8378/Maruti-Swift-VXI/1670933646275/front-left-side-47.jpg?tr=w-456",
+          "name": "Maruti Baleno",
+          "price": "6.49 - 9.71"
+        },
+        {
+          "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Baleno/8674/1645684614616/front-left-side-47.jpg?tr=w-456",
+          "name": "Maruti Alto 800",
+          "price": "3.39 - 5.03"
+        }
+      ]
+    }
+  }
+}

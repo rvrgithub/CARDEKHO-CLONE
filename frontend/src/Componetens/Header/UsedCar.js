@@ -34,8 +34,8 @@ export const UsedCar = () => {
               <ArrowRightIcon className="rightArrow" />
             </Link>
             <ul className="submenu2">
-              {City.map((e) => (
-                <li>
+              {City.map((e,i) => (
+                <li key={i}>
                   <Link to={e.to} className="link">
                     <Typography>{e.title}</Typography>
                   </Link>

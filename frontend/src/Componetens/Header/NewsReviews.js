@@ -26,8 +26,8 @@ export const NewsReviews = () => {
           </Link>
         </div>
         <ul className="submenu">
-          {CarNews.map((e) => (
-            <li>
+          {CarNews.map((e,i) => (
+            <li key={i}>
               <Link to={e.to} className="link">
                 <Typography>{e.title}</Typography>
               </Link>
