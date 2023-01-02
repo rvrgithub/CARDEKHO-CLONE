@@ -12,13 +12,8 @@ import "./Slider.css";
 
 // import required modules
 import { Pagination, Navigation } from "swiper";
-// import {carData} from "../../Utils/Data"
-// import { CardComponent } from "../CardComponent/CardComponent";
-export const Slider = ()=> {
-
-    // console.log("carData",carData);
-
-
+export const Slider = ({data})=> {
+    // console.log("carData",data);
   return (
     <div className='sliderContainer'>
       <Swiper

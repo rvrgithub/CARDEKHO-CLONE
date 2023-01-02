@@ -18,7 +18,7 @@ export const reducer = (state = initialState, action) => {
       return {
         ...state,
         isLoading: false,
-        cards: payload,
+        cars: payload,
         isError: false,
       };
     case types.GET_DATA_FAILURE:
