@@ -1,6 +1,6 @@
 .container {
   position: absolute;
-  border: 1px solid red;
+  /* border: 1px solid red; */
   margin-top: 120px;
   text-align: left;
 }

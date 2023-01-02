@@ -2,7 +2,7 @@
   "searched": {
     "options": ["Hatchback", "Sedan", "SUV", "MUV", "Luxury"],
     "data": {
-      "hatchback": [
+      "Hatchback": [
         {
           "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Swift/8378/Maruti-Swift-VXI/1670933646275/front-left-side-47.jpg?tr=w-456",
           "name": "Maruti Swift",
@@ -44,7 +44,7 @@
           "price": "Rs5.92 - 8.85 Lakh"
         }
       ],
-      "sedan": [
+      "Sedan": [
         {
           "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Swift/8378/Maruti-Swift-VXI/1670933646275/front-left-side-47.jpg?tr=w-456",
           "name": "Maruti Swift",
@@ -66,7 +66,7 @@
           "price": "3.39 - 5.03"
         }
       ],
-      "suv": [
+      "SUV": [
         {
           "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Swift/8378/Maruti-Swift-VXI/1670933646275/front-left-side-47.jpg?tr=w-456",
           "name": "Maruti Swift",
@@ -88,7 +88,7 @@
           "price": "3.39 - 5.03"
         }
       ],
-      "mvu": [
+      "MUV": [
         {
           "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Swift/8378/Maruti-Swift-VXI/1670933646275/front-left-side-47.jpg?tr=w-456",
           "name": "Maruti Swift",
@@ -110,7 +110,7 @@
           "price": "3.39 - 5.03"
         }
       ],
-      "luxury": [
+      "Luxury": [
         {
           "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Swift/8378/Maruti-Swift-VXI/1670933646275/front-left-side-47.jpg?tr=w-456",
           "name": "Maruti Swift",

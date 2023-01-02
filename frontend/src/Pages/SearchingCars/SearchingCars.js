@@ -6,6 +6,7 @@ import { Option } from "../../Componetens/Option/Option";
 import { Slider } from "../../Componetens/Slider/Slider";
 import { getCarData } from "../../Redux/AppReducer/action";
 import "./SearchingCar.css";
+import { Divider } from '@mui/material';
 export const SearchingCars = () => {
   const [carData, setCarData] = useState({});
   const cars = useSelector((store) => store.AppReducer.cars);
@@ -26,8 +27,13 @@ export const SearchingCars = () => {
       <Container maxWidth="lg" className="searchContainer">
         <h2>The most searched cars</h2>
         <Option data={cars} />
-        <CardComponent />
+        {/* <Divider/> */}
+      {/* <h1>asdgfgsd</h1> */}
+      <Container maxWidth="lg" className="searchContainerLink">
+      <h1>asdgfgsd</h1>
       </Container>
+      </Container>
+     
     </>
   );
 };
