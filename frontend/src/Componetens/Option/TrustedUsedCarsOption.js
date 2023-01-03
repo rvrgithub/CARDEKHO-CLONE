@@ -1,8 +1,7 @@
 import { TableCell, TableHead, TableRow } from '@material-ui/core';
 import React, { useEffect, useState } from 'react'
-import { Slider } from '../Slider/Slider';
-
-export const Option = ({data}) => {
+import { TrusedUsedCarsSlider } from '../Slider/TrustedUsedCarsSlider';
+export const TrustedUsedCarsOption = ({data}) => {
     // console.log("dataOptions",data)
 const options = data?.options;
 const [title,setTitle] = useState("");
@@ -19,7 +18,7 @@ console.log("title",title)
     ))}
     </TableRow>
   </TableHead>
-  <Slider data={title}/>
+  <TrusedUsedCarsSlider data={title}/>
  </>
   )
 }

@@ -1,0 +1,12 @@
+.border_color{
+font-size: 40px;
+color: red;
+border-bottom: orange;
+}
+.text{
+    color: rgb(221, 172, 11);
+
+}
+.orange-cell {
+    color: orange;
+}
