@@ -7,7 +7,7 @@ import { Button, CardActionArea, CardActions } from "@mui/material";
 export const PopularBrandsCard = ({ data }) => {
   // console.log("cardComponents", data);
   return (
-    <Card sx={{padding:0, maxWidth: "100%"}}>
+    <Card sx={{padding:0, maxWidth: "100%", textAlign:"center"}}>
       <CardActionArea>
         <CardMedia
           component="img"

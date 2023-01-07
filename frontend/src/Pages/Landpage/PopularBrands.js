@@ -17,11 +17,9 @@ export const PopularBrands = () => {
     getData();
   }, []);
   return (
-    <>
-      <Container maxWidth="lg" className="searchContainer">
-        <h2>Popular Brands</h2>
-        <PopularBrandsSlider data={cars} />
-      </Container>
-    </>
+    <Container maxWidth="lg"  className="popularContainer">
+      <h2>Popular Brands</h2>
+      <PopularBrandsSlider data={cars} />
+    </Container>
   );
 };

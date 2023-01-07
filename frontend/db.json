@@ -1,5 +1,5 @@
 {
-  "pages":{
+  "pages": {
     "searched": {
       "options": ["Hatchback", "Sedan", "SUV", "MUV", "Luxury"],
       "data": {
@@ -7,130 +7,161 @@
           {
             "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Swift/8378/Maruti-Swift-VXI/1670933646275/front-left-side-47.jpg?tr=w-456",
             "name": "Maruti Swift",
-            "price": "5.92 - 8.85"
+            "price": "₹5.92 - 8.85 Lakh*"
+          },
+          {
+            "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Baleno/8674/1645684614616/front-left-side-47.jpg?tr=w-456",
+            "name": "Maruti Baleno",
+            "price": "₹6.49 - 9.71 Lakh*"
           },
           {
             "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Tata/Tiago/7338/Tata-Tiago-XE/1660901953609/front-left-side-47.jpg?tr=w-456",
             "name": "Tata Tiago",
-            "price": "5.45 - 7.90"
-          },
-          {
-            "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Swift/8378/Maruti-Swift-VXI/1670933646275/front-left-side-47.jpg?tr=w-456",
-            "name": "Maruti Baleno",
-            "price": "6.49 - 9.71"
-          },
-          {
-            "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Baleno/8674/1645684614616/front-left-side-47.jpg?tr=w-456",
-            "name": "Maruti Alto 800",
-            "price": "3.39 - 5.03"
+            "price": "₹5.45 - 7.90 Lakh*"
           },
           {
             "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Alto-800/7072/1650542631570/front-left-side-47.jpg?tr=w-456",
-            "name": "Maruti Swift",
-            "price": "Rs5.92 - 8.85 Lakh"
+            "name": "Maruti Alto 800",
+            "price": "₹3.39 - 5.03 Lakh*"
           },
           {
-            "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Swift/8378/Maruti-Swift-VXI/1670933646275/front-left-side-47.jpg?tr=w-456",
-            "name": "Maruti Swift",
-            "price": "Rs5.92 - 8.85 Lakh"
+            "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Tata/Altroz/8277/1648014589351/front-left-side-47.jpg?tr=w-456",
+            "name": "Tata Altroz",
+            "price": "₹6.35 - 10.25 Lakh*"
           },
           {
-            "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Swift/8378/Maruti-Swift-VXI/1670933646275/front-left-side-47.jpg?tr=w-456",
-            "name": "Maruti Swift",
-            "price": "Rs5.92 - 8.85 Lakh"
-          },
-          {
-            "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Swift/8378/Maruti-Swift-VXI/1670933646275/front-left-side-47.jpg?tr=w-456",
-            "name": "Maruti Swift",
-            "price": "Rs5.92 - 8.85 Lakh"
+            "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Hyundai/i20/6986/1604567349336/front-left-side-47.jpg?tr=w-456",
+            "name": "Hyundai i20",
+            "price": "₹7.07 - 11.62 Lakh*"
           }
         ],
         "Sedan": [
           {
-            "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Swift/8378/Maruti-Swift-VXI/1670933646275/front-left-side-47.jpg?tr=w-456",
-            "name": "Maruti Swift",
-            "price": "5.92 - 8.85"
+            "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Honda/City-4th-Generation/7259/1658897976091/front-left-side-47.jpg?tr=w-456",
+            "name": "Honda City 4th Generation",
+            "price": "₹9.50 - 10.00 Lakh*"
           },
           {
-            "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Tata/Tiago/7338/Tata-Tiago-XE/1660901953609/front-left-side-47.jpg?tr=w-456",
-            "name": "Tata Tiago",
-            "price": "5.45 - 7.90"
+            "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Dzire-2020/7664/1584705998420/front-left-side-47.jpg?tr=w-456",
+            "name": "Maruti Dzire",
+            "price": "₹6.24 - 9.18 Lakh*"
           },
           {
-            "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Swift/8378/Maruti-Swift-VXI/1670933646275/front-left-side-47.jpg?tr=w-456",
-            "name": "Maruti Baleno",
-            "price": "6.49 - 9.71"
+            "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Hyundai/Verna/7729/1616055133475/front-left-side-47.jpg?tr=w-456",
+            "name": "Hyundai Verna",
+            "price": "₹9.44 - 15.53 Lakh*"
           },
           {
-            "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Baleno/8674/1645684614616/front-left-side-47.jpg?tr=w-456",
-            "name": "Maruti Alto 800",
-            "price": "3.39 - 5.03"
+            "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Honda/City/6909/1645419537509/front-left-side-47.jpg?tr=w-456",
+            "name": "Honda City",
+            "price": "₹11.57 - 15.52 Lakh*"
+          },
+
+          {
+            "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Honda/Amaze/8541/1629275024620/front-left-side-47.jpg?tr=w-456",
+            "name": "Honda Amaze",
+            "price": "₹6.63 - 11.50 Lakh*"
+          },
+          {
+            "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Tata/Tigor/7339/1669725536925/front-left-side-47.jpg?tr=w-456",
+            "name": "Tata Tigor",
+            "price": "₹6.10 - 8.84 Lakh*"
           }
         ],
         "SUV": [
           {
-            "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Swift/8378/Maruti-Swift-VXI/1670933646275/front-left-side-47.jpg?tr=w-456",
-            "name": "Maruti Swift",
-            "price": "5.92 - 8.85"
+            "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Mahindra/Thar/8076/1601635839903/front-left-side-47.jpg?tr=w-456",
+            "name": "Mahindra Thar",
+            "price": "₹13.59 - 16.29 Lakh*"
           },
           {
-            "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Tata/Tiago/7338/Tata-Tiago-XE/1660901953609/front-left-side-47.jpg?tr=w-456",
-            "name": "Tata Tiago",
-            "price": "5.45 - 7.90"
+            "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Tata/Nexon/7384/1614326304397/front-left-side-47.jpg?tr=w-456",
+            "name": "Tata Nexon",
+            "price": "₹7.70 - 14.18 Lakh*"
           },
           {
-            "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Swift/8378/Maruti-Swift-VXI/1670933646275/front-left-side-47.jpg?tr=w-456",
-            "name": "Maruti Baleno",
-            "price": "6.49 - 9.71"
+            "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Toyota/Fortuner/8241/1609921660871/front-left-side-47.jpg?tr=w-456",
+            "name": "Toyota Fortuner",
+            "price": "₹32.59 - 50.34 Lakh*"
           },
           {
-            "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Baleno/8674/1645684614616/front-left-side-47.jpg?tr=w-456",
-            "name": "Maruti Alto 800",
-            "price": "3.39 - 5.03"
+            "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Mahindra/XUV700/8629/1659345807519/front-left-side-47.jpg?tr=w-456",
+            "name": "Mahindra XUV700",
+            "price": "₹13.45 - 24.95 Lakh*"
+          },
+          {
+            "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Hyundai/Creta/7695/1651645683867/front-left-side-47.jpg?tr=w-456",
+            "name": "Hyundai Creta",
+            "price": "₹10.44 - 18.24"
+          },
+          {
+            "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Brezza/8679/1656579833096/front-left-side-47.jpg?tr=w-456",
+            "name": "Maruti Brezza",
+            "price": "₹7.99 - 13.96"
           }
         ],
         "MUV": [
           {
-            "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Swift/8378/Maruti-Swift-VXI/1670933646275/front-left-side-47.jpg?tr=w-456",
-            "name": "Maruti Swift",
-            "price": "5.92 - 8.85"
+            "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Ertiga/8711/1650012049600/front-left-side-47.jpg?tr=w-456",
+            "name": "Maruti Ertiga",
+            "price": "₹8.35 - 12.79"
           },
           {
-            "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Tata/Tiago/7338/Tata-Tiago-XE/1660901953609/front-left-side-47.jpg?tr=w-456",
-            "name": "Tata Tiago",
-            "price": "5.45 - 7.90"
+            "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Renault/Triber/8399/1658230275848/front-left-side-47.jpg?tr=w-456",
+            "name": "Renault Triber",
+            "price": "₹5.92 - 8.51 Lakh*"
           },
           {
-            "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Swift/8378/Maruti-Swift-VXI/1670933646275/front-left-side-47.jpg?tr=w-456",
-            "name": "Maruti Baleno",
-            "price": "6.49 - 9.71"
+            "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/XL6/8952/1650536192965/front-left-side-47.jpg?tr=w-456",
+            "name": "Maruti XL6",
+            "price": "₹11.29 - 14.55 Lakh*"
           },
           {
-            "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Baleno/8674/1645684614616/front-left-side-47.jpg?tr=w-456",
-            "name": "Maruti Alto 800",
-            "price": "3.39 - 5.03"
+            "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Toyota/Toyota-Vellfire/7024/1563439989810/front-left-side-47.jpg?tr=w-456",
+            "name": "Toyota Vellfire",
+            "price": "₹94.45 Lakh*"
+          },
+          {
+            "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Mahindra/Marazzo/7948/1632224129922/front-left-side-47.jpg?tr=w-456",
+            "name": "Mahindra Marazzo",
+            "price": "₹13.41 - 15.70 Lakh*"
+          },
+          {
+            "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Datsun/Datsun-GO-Plus/6654/front-left-side-47.jpg?tr=w-456",
+            "name": "Datsun GO Plus",
+            "price": "₹4.26 - 7.00 Lakh*"
           }
         ],
         "Luxury": [
           {
-            "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Swift/8378/Maruti-Swift-VXI/1670933646275/front-left-side-47.jpg?tr=w-456",
-            "name": "Maruti Swift",
-            "price": "5.92 - 8.85"
+            "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Mercedes-Benz/GLE/6732/1580365808263/front-left-side-47.jpg?tr=w-456",
+            "name": "Mercedes-Benz GLE",
+            "price": "₹88.00 Lakh - 1.05 Cr*"
           },
           {
-            "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Tata/Tiago/7338/Tata-Tiago-XE/1660901953609/front-left-side-47.jpg?tr=w-456",
-            "name": "Tata Tiago",
-            "price": "5.45 - 7.90"
+            "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Mercedes-Benz/GLA/7269/1621948227508/front-left-side-47.jpg?tr=w-456",
+            "name": "Mercedes-Benz GLA",
+            "price": "₹46.50 - 50.50 Lakh*"
           },
           {
-            "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Swift/8378/Maruti-Swift-VXI/1670933646275/front-left-side-47.jpg?tr=w-456",
-            "name": "Maruti Baleno",
-            "price": "6.49 - 9.71"
+            "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/BMW/X5/6940/1664014872033/front-left-side-47.jpg?tr=w-456",
+            "name": "BMW X5",
+            "price": "79.90 - 96.50 Lakh*"
           },
           {
-            "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Baleno/8674/1645684614616/front-left-side-47.jpg?tr=w-456",
-            "name": "Maruti Alto 800",
-            "price": "3.39 - 5.03"
+            "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Rolls-Royce/Ghost/8051/1601280317407/front-left-side-47.jpg?tr=w-456",
+            "name": "Rolls-Royce Ghost",
+            "price": "₹6.95 - 7.95 Cr*"
+          },
+          {
+            "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Audi/A4/9321/1670914111785/front-left-side-47.jpg?tr=w-456",
+            "name": "Audi A4",
+            "price": "43.12 - 50.99 Lakh*"
+          },
+          {
+            "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Audi/A6/6426/1571906388003/front-left-side-47.jpg?tr=w-456",
+            "name": "Audi A6",
+            "price": "₹60.59 - 65.15 Lakh*"
           }
         ]
       }
@@ -140,7 +171,7 @@
       "data": {
         "1-5": [
           {
-            "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Swift/8378/Maruti-Swift-VXI/1670933646275/front-left-side-47.jpg?tr=w-456",
+            "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Swift/8378/Maruti-Swift-VXI/1670933646275/front-left-side-47.jpg?tr=w-456https://images10.gaadi.com/usedcar_image/original/zz1_crop_img_638ed69431532_1670305428.jpeg?imwidth=640",
             "name": "Maruti Swift",
             "price": "5.92 - 8.85"
           },
@@ -251,7 +282,7 @@
         "image": "https://stimg.cardekho.com/pwa/img/brandLogo_168x84/mercedes-benz.jpg",
         "name": "Mercedes-Benz"
       },
-  
+
       {
         "image": "https://stimg.cardekho.com/pwa/img/brandLogo_168x84/renault.jpg",
         "name": "Renault"
